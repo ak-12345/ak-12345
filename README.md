@@ -9,3 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python, C, and C++
 - Projects: 
 -->
+
+## Goals:
+## - I’m currently working on improving my knowledge of coding.
+## - I’m currently learning Python, C, and C++
+##
+## Some projects I worked on are:
+## - 
