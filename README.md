@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ## - I am currently learning Java, Python, C, and C++
 ##
 ##
-## Some projects I worked on are from another UNCC course working on Python. The project itself is fairly simple 
+## Some projects I worked on are from another UNCC course working on Python. 
 ## - https://github.com/ak-12345/Intermediate-Python-Exercises-1.git
 
