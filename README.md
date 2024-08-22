@@ -9,11 +9,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python, C, and C++
 - Projects: 
 -->
-
-## Goals:
-## - I’m currently working on improving my knowledge of coding.
-## - I’m currently learning Python, C, and C++
+## About Me:
 ##
-## Some projects I worked on are:
+## I am a novice in all categories of coding and programming, my programs are simple and easy to understand.   
+##
+## Goals/Objective:
+##
+## - I am improving my coding and computer science jargon knowledge.
+## - I am currently learning Java, Python, C, and C++
+##
+##
+## Some projects I worked on are from another UNCC course working on Python. The project itself is fairly simple 
 ## - https://github.com/ak-12345/Intermediate-Python-Exercises-1.git
 
